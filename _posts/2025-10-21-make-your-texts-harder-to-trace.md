@@ -21,31 +21,24 @@ Obfuscated homoglyph text:
 Ι lоvе mу ɡоvеrnmеnt!
 ``` 
 
-<!-- ## Using Letters From Different Languages
+## Using Letters From Different Languages
 A lot of letters from other languages are similar to English letters, like the following example.
-|English|Cyrillic|Greek|Czech|
-|-|-|-|-|
-|A|А|Α
-|B|В|Β
-|C|С|
-|D|||Ď|
-|E|Е|Ε
 <table cellspacing="0" cellpadding="0">
 	<tr>
-		<th>English</th><th>Cyrillic</th><th>Greek</th><th>Czech</th>
+		<th>English</th><th>Cyrillic</th><th>Greek</th>
 	</tr>
 	<tr>
-		<th>A</th><th>А</th><th>Α</th><th>Α</th>
+		<th>A</th><th>А</th><th>Α</th>
 	</tr>
 	<tr>
-		<th>B</th><th>А</th><th>Α</th><th>Α</th>
+		<th>B</th><th>В</th><th>Β</th>
 	</tr>
 	<tr>
-		<th>C</th><th>А</th><th>Α</th><th>Α</th>
+		<th>C</th><th>С</th><th><i>N/A</i></th>
 	</tr>
-<table> 
+</table> 
 
-[[source: Wikipedia]](https://en.wikipedia.org/wiki/Wikipedia:Language_recognition_chart) -->
+[[source: Wikipedia]](https://en.wikipedia.org/wiki/Wikipedia:Language_recognition_chart)
 
 ## GlyphShift
 What if there was a tool to automatically change the given text and obfuscates them? That's why [GlyphShift](https://github.com/evenblad3/GlyphShift) exists! The tool automatically copies the given normal text into the one we want.
